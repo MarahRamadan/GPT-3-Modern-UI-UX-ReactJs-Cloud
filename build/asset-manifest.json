@@ -16,7 +16,7 @@
     "main.dba41fe9.js.map": "/static/js/main.dba41fe9.js.map"
   },
   "entrypoints": [
-    "GPT-3-Modern-UI-UX-ReactJs-Cloud/static/css/main.a558f1fa.css",
-    "GPT-3-Modern-UI-UX-ReactJs-Cloud/static/js/main.dba41fe9.js"
+    "static/css/main.a558f1fa.css",
+    "static/js/main.dba41fe9.js"
   ]
 }
